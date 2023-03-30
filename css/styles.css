@@ -1,0 +1,15 @@
+h1 {
+    font-family: 'Tangerine';
+    font-size: 100px;
+}
+
+#background-image {
+    background-image: url("https://raw.githubusercontent.com/Code-Institute-Solutions/BootstrappingYourNextBigIdea-BS4/master/04-BeyondBootstrap/01-updating_our_callout/images/whiskey-background.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+
+}
+
+.text {
+color:aliceblue
+}
