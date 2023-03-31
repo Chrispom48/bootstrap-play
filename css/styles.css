@@ -11,5 +11,13 @@ h1 {
 }
 
 .text {
-color:aliceblue
+color:aliceblue;
+}
+
+#billboard-back {
+    background-color: red;
+}
+
+body {
+    background-color: rgba(0,0,0,0.5);
 }
